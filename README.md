@@ -163,3 +163,4 @@ message Example {
   uint64 bigInt = 1 [jstype = JS_STRING];
 }
 ```
+
